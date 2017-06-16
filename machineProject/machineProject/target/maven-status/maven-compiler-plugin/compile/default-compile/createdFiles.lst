@@ -1,0 +1,5 @@
+com\lenovo\lic\machine\model\MachinePool.class
+com\lenovo\lic\machine\model\Machine.class
+com\lenovo\lic\machine\security\SecurityConfig.class
+com\lenovo\lic\machine\controller\MachineController.class
+com\lenovo\lic\machine\MachineProjectApplication.class
